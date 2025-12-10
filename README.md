@@ -323,7 +323,7 @@ MIT License avec **restrictions éthiques strictes**.
 
 L'usage commercial ou malveillant est **strictement interdit**.
 
-Voir [LICENSE](LICENSE) pour les détails.
+Voir [LICENSE](License) pour les détails.
 
 ---
 
